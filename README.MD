@@ -4,8 +4,6 @@
   <img src="https://your-image-url.com/converseai-demo.gif" alt="ConverseAI Demo" width="600">
 </p>
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 ## Overview
 
 ConverseAI is a web application that enables seamless voice-based communication with AI, eliminating the need for text input. This project showcases my full-stack development skills, with responsibilities ranging from frontend development using React to backend development using Python and FastAPI.
