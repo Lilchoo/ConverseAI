@@ -6,7 +6,7 @@
 
 ## Overview
 
-ConverseAI is a web application that enables seamless voice-based communication with AI, eliminating the need for text input. This project showcases my full-stack development skills, with responsibilities ranging from frontend development using React to backend development using Python and FastAPI.
+ConverseAI is a web application that enables seamless voice-based communication with AI, eliminating the need for text input.
 
 ## Features
 
