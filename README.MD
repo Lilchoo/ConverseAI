@@ -23,3 +23,21 @@ To run ConverseAI locally, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/ConverseAI.git
+
+2. Navigate to the project directory
+
+3. Create a `.env` file in the project's root folder and add the following environment variables:
+
+    ELEVENLABS_API_KEY=your_elevenlabs_api_key
+    CHATGPT_API_KEY=your_chatgpt_api_key
+
+4. Install the project dependencies:
+
+    npm install
+
+5. Run the backend using uvicorn api:app --reload
+
+6. Run the frontend using npm start.
+
+7. Open your web browser and access the application at `http://localhost:3000`.
+
